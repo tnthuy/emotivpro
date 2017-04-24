@@ -1,0 +1,10 @@
+:DONE_Text	{container=':EmotivPro v1.0.2_DeviceConnectCheckHeadsetV2' text='DONE' type='Text' unnamed='1' visible='true'}
+:EmotivPro v1.0.2_DeviceConnectCheckHeadsetV2	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' type='DeviceConnectCheckHeadsetV2' unnamed='1' visible='true'}
+:EmotivPro v1.0.2_DeviceConnectHeadsetV2	{container=':EmotivPro v1.0.2_QQuickApplicationWindow' type='DeviceConnectHeadsetV2' unnamed='1' visible='true'}
+:EmotivPro v1.0.2_QQuickApplicationWindow	{title='EmotivPro v1.0.2' type='QQuickApplicationWindow' unnamed='1' visible='true'}
+:_QQuickApplicationWindow	{type='QQuickApplicationWindow' unnamed='1' visible='true'}
+:background_Rectangle	{container=':_QQuickApplicationWindow' id='background' type='Rectangle' unnamed='1' visible='true'}
+:background_Rectangle_2	{container=':EmotivPro v1.0.2_DeviceConnectHeadsetV2' id='background' type='Rectangle' unnamed='1' visible='true'}
+:background_Rectangle_3	{container=':EmotivPro v1.0.2_DeviceConnectCheckHeadsetV2' id='background' type='Rectangle' unnamed='1' visible='true'}
+:textField_TextField	{container=':_QQuickApplicationWindow' id='textField' type='TextField' unnamed='1' visible='true'}
+:textField_TextField_2	{container=':_QQuickApplicationWindow' id='textField' occurrence='2' type='TextField' unnamed='1' visible='true'}
