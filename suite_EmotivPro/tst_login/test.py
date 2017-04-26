@@ -14,7 +14,7 @@ def main():
     #enter license
     setWindowState(waitForObject(":_QQuickApplicationWindow"), WindowState.Maximize)
     mouseClick(waitForObject(":textField_TextField"), 68, 19, 33554432, Qt.LeftButton)
-    type(waitForObject(":textField_TextField"), "251fba0d-8d0b-4136-80d1-a1a84c7bc5a4")
+    type(waitForObject(":textField_TextField"), "1d678e0e-f879-4837-97b7-52dd9f0582e6")
     mouseClick(waitForObject(":background_Rectangle"), 116, 14, 33554432, Qt.LeftButton)
     snooze(15)
     
