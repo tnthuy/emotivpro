@@ -9,7 +9,7 @@ def main():
     type(waitForObject(":textField_TextField"), "<Tab>")
     type(waitForObject(":textField_TextField_2"), "Thuyvy12")
     mouseClick(waitForObject(":background_Rectangle"), 116, 14, 33554432, Qt.LeftButton)
-    snooze(5.6)
+    snooze(10)
     
     #enter license
     setWindowState(waitForObject(":_QQuickApplicationWindow"), WindowState.Maximize)
