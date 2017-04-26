@@ -7,7 +7,7 @@ def main():
     mouseClick(waitForObject(":textField_TextField"), 51, 20, Qt.LeftButton)
     type(waitForObject(":textField_TextField"), "chimcu")
     type(waitForObject(":textField_TextField"), "<Tab>")
-    type(waitForObject(":textField_TextField_2"), "Thuyvy12")
+    type(waitForObject(":textField_TextField_2"), "Thuyvy123")
     mouseClick(waitForObject(":background_Rectangle"), 116, 14, 33554432, Qt.LeftButton)
     snooze(10)
     
